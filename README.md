@@ -1,10 +1,9 @@
 ### Olá eu me chamo Lisiana e seja bem-vindo (a)! 
 
 Eu atualmente estou estudando Análise e Desenvolvimento de Sistemas e me preparando para ser 
-uma desenvolvedora front-end 💜💜
+uma desenvolvedora full stack 💜💜
 
---> I'm currently learning front-end development
-
+--> I'm currently learning full stack developer
 
 
 
