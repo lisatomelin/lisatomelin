@@ -5,7 +5,7 @@
 Atualmente estou estudando Análise e Desenvolvimento de Sistemas e me preparando para ser 
 uma desenvolvedora full stack 💜💜
 
---> I'm currently learning full stack developer
+--> I'm currently learning full stack development
 
 <div>
   <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
