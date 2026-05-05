@@ -26,8 +26,8 @@
 
 ### 📊 atividade
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?lisatomelin=lisatomelin&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?lisatomelin=lisatomelin&layout=compact&theme=transparent&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lisatomelin&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisatomelin&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
