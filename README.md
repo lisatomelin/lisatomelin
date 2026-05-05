@@ -1,31 +1,58 @@
-##
+<h1 align="center">Olá! Bem vindos (as)!</h1>
 
-### Olá eu me chamo Lisiana e seja bem-vindo (a)! 
+<p align="center">
+  Construindo soluções com design simples e eficientes
+</p>
 
-Atualmente estou estudando Análise e Desenvolvimento de Sistemas e me preparando para ser 
-uma desenvolvedora full stack 💜💜
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4CAF50&center=true&vCenter=true&width=420&lines=Product+Designer;Desenvolvedora+Fullstack;Angular+%7C+Node+%7C+C%23;Sempre+aprendendo+algo+novo" />
+</p>
 
---> I'm currently working as an application developer / Full Stack
+---
 
-<div>
-  <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />            
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />          
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" />
-          
-           
-          
-</div>
+### 🧠 sobre
+- apaixonada por design e desenvolvimento  
+- foco em design limpo e funcional  
+- evolução constante 🚀  
 
-##
+---
 
-![BabyYodaWelcomeGIF](https://user-images.githubusercontent.com/109558589/219899672-9e8eba43-a9a7-4520-a2bf-57ff3ee4d28d.gif)
+### ⚙️ stack
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,nodejs,cs,java" />
+</p>
 
-##
+---
 
+### 📊 atividade
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
+---
 
+### 🐍 contribuições
+<p align="center">
+  <img src="https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 🌱 agora
+> aprofundando em Java e boas práticas
+
+---
+
+### 📫 contato
+<p>
+  <a href="https://linkedin.com/in/lisianatomelin">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡
+</p>
