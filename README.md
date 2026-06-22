@@ -19,7 +19,7 @@
 
 ### ⚙️ stack
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,nodejs,cs,java" />
+  <img src="https://skillicons.dev/icons?i=python,angular,ts,nodejs,cs,java,aws" />
 </p>
 
 ---
