@@ -33,7 +33,7 @@
 ---
 
 ### 🌱 agora
-> aprofundando em Java e boas práticas
+> Data Engineer & Python
 
 ---
 
